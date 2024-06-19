@@ -1,3 +1,3 @@
-# Bank-Management-Sysytem-Project
+# Bank-Management-System
 
 This is a Bank Management System Project
